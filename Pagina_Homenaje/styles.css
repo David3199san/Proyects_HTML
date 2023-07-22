@@ -1,0 +1,33 @@
+#image {
+    display:block;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  body {
+    text-align: center;
+  }
+  
+  main {
+    background-color: rgba(128, 128, 128, 0.5);
+    margin: 1.5rem 0.5rem;
+    padding: 5px 0;
+  }
+  
+  #img-div {
+    display:block;
+    background-color: white;
+    padding: 20px 10px;
+  }
+  
+  ul, .cita{
+    text-align: left;
+    font-size: 1.2em;
+    display: block;
+    max-width: 450px;
+    margin: 0 auto;
+  }
+  h3 {
+    font-size: 1.2em; 
+  }
+  
